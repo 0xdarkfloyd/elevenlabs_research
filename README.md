@@ -47,12 +47,6 @@ C:\Users\hacker\Downloads\elevenlabs>
 ```
 Based on the voiceprint statistics provided, it seems that the first set of statistics is for a voice sample referred to as "Mimosa," and the second set is for a voice sample referred to as "jacky."
 
-# Reference
-
-1. https://engineering.atspotify.com/2023/10/introducing-voyager-spotifys-new-nearest-neighbor-search-library/
-
-2. https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-voiceprint
-
 To compare their voiceprints and determine which voice might sound sweeter, we can analyze some of the key acoustic features:
 
 Pitch: The pitch range for "Mimosa" (36.53 - 286.47 Hz) is higher than that of "jacky" (17.88 - 180.54 Hz). A higher pitch range generally sounds more bright and youthful, which could be perceived as sweeter.
