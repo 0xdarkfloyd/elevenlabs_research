@@ -148,3 +148,5 @@ https://engineering.atspotify.com/2023/10/introducing-voyager-spotifys-new-neare
 https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-voiceprint
 
 https://www.pinecone.io/learn/series/faiss/locality-sensitive-hashing/
+
+https://medium.com/@hbrylkowski/locality-sensitive-hashing-explained-304eb39291e4
