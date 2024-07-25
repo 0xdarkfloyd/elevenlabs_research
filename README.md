@@ -129,6 +129,18 @@ This separation highlights the voiceprint features that are more likely to remai
 
 ```
 
+# LSH
+
+```
+C:\Users\hacker\Downloads\elevenlabs>python LSH.py
+Mimosa Stable Features LSH: (1.0, 5.0, 2.0)
+Jacky Stable Features LSH: (7.0, 4.0, 6.0)
+Mimosa Variable Features LSH: (0.0, 1.0, 3.0)
+Jacky Variable Features LSH: (1.0, 3.0, 2.0)
+
+```
+
+
 # Reference
 
 https://engineering.atspotify.com/2023/10/introducing-voyager-spotifys-new-nearest-neighbor-search-library/
