@@ -43,7 +43,29 @@ peak_count: 123775
 
 C:\Users\hacker\Downloads\elevenlabs>
 ```
-# Analysis
+# Voice print comparison
+```
+Based on the voiceprint statistics provided, it seems that the first set of statistics is for a voice sample referred to as "Mimosa," and the second set is for a voice sample referred to as "jacky."
+
+To compare their voiceprints and determine which voice might sound sweeter, we can analyze some of the key acoustic features:
+
+Pitch: The pitch range for "Mimosa" (36.53 - 286.47 Hz) is higher than that of "jacky" (17.88 - 180.54 Hz). A higher pitch range generally sounds more bright and youthful, which could be perceived as sweeter.
+Tone: Both voices have relatively low tone values (close to 0), indicating a neutral tone quality.
+Cadence: "jacky" has a slightly higher cadence (123.05 beats per minute) compared to "Mimosa" (107.67 bpm), which could contribute to a more dynamic and lively delivery.
+Resonance: "jacky" has a higher resonance value (0.56 - 2.84) compared to "Mimosa" (0.23 - 1.16), suggesting a more resonant and possibly richer voice quality.
+Articulation: Both voices have similar articulation values, indicating similar levels of precision in speech production.
+Accent: The accent values are also similar for both voices.
+Rhythm: "jacky" has a higher rhythm value (0.088) compared to "Mimosa" (0.036), suggesting a more rhythmic and expressive delivery.
+Stress: The stress values are close for both voices, indicating similar stress patterns.
+Intonation: "jacky" has a slightly higher intonation value (3944.87) compared to "Mimosa" (3827.76), which could contribute to a more melodic and expressive delivery.
+Skewness and Kurtosis: These values provide information about the distribution of the acoustic features, but it's difficult to directly interpret their impact on perceived sweetness.
+Considering these factors, the voice referred to as "jacky" may be perceived as sweeter overall due to its higher pitch range, slightly more dynamic cadence, higher resonance, more rhythmic delivery, and potentially more expressive intonation patterns.
+
+However, it's important to note that the perception of sweetness is subjective and can be influenced by personal preferences and contextual factors. Additionally, other acoustic features not captured in these statistics, such as voice quality, timbre, and emotional expression, could also contribute to the perceived sweetness of a voice.
+```
+
+
+# Feature Analysis
 ```
 Based on the voiceprint statistics provided, some features are more likely to remain relatively consistent for the same speaker, even when speaking different content in the same language, while other features may vary more significantly.
 
