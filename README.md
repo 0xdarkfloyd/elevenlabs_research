@@ -146,3 +146,5 @@ Jacky Variable Features LSH: (1.0, 3.0, 2.0)
 https://engineering.atspotify.com/2023/10/introducing-voyager-spotifys-new-nearest-neighbor-search-library/
 
 https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-voiceprint
+
+https://www.pinecone.io/learn/series/faiss/locality-sensitive-hashing/
