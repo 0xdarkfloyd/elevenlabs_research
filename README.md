@@ -140,6 +140,22 @@ Jacky Variable Features LSH: (1.0, 3.0, 2.0)
 
 ```
 
+# LSH Similarity Analysis and Implication
+```
+Based on the results shown, the implications are as follows:
+
+Stable Features LSH Similarity: 0.1
+The stable features of Mimosa and Jacky have a low LSH similarity of 0.1, which means that only 1 out of 10 hash values match between their stable feature LSH signatures.
+This suggests that the stable features, such as pitch range, tone, resonance, articulation, accent, skewness, and kurtosis, are quite different between Mimosa and Jacky.
+A low similarity in stable features implies that the inherent characteristics of their voices, like vocal tract configuration, articulatory habits, and overall voice quality, are dissimilar.
+Variable Features LSH Similarity: 0.1
+The variable features of Mimosa and Jacky also have a low LSH similarity of 0.1, meaning that only 1 out of 10 hash values match between their variable feature LSH signatures.
+This indicates that the features that can vary across different speech content, such as cadence, rhythm, stress, intonation, and peak count, are also quite different between Mimosa and Jacky.
+A low similarity in variable features suggests that their speech patterns, rhythmic patterns, stress patterns, and intonation contours are dissimilar, even though they are speaking the same language.
+Overall, the low LSH similarity values for both stable and variable features imply that Mimosa and Jacky have significantly different voiceprint signatures. Their voices exhibit distinct characteristics in terms of both inherent voice qualities and speech patterns/prosodic features.
+
+This dissimilarity could be due to various factors, such as differences in age, gender, regional accent, or individual vocal traits. It is important to note that these are approximate similarity measures based on the LSH technique, and a more comprehensive analysis of the acoustic features may be required for a more nuanced assessment of their voice similarities or differences.
+```
 
 # Reference
 
