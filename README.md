@@ -134,3 +134,9 @@ Peak Count: 123775
 This separation highlights the voiceprint features that are more likely to remain consistent for each speaker, regardless of the specific speech content, and the features that may vary based on the content being spoken.
 
 ```
+
+# Reference
+
+https://engineering.atspotify.com/2023/10/introducing-voyager-spotifys-new-nearest-neighbor-search-library/
+
+https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-voiceprint
