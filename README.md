@@ -133,10 +133,12 @@ This separation highlights the voiceprint features that are more likely to remai
 
 ```
 C:\Users\hacker\Downloads\elevenlabs>python LSH.py
-Mimosa Stable Features LSH: (1.0, 5.0, 2.0)
-Jacky Stable Features LSH: (7.0, 4.0, 6.0)
-Mimosa Variable Features LSH: (0.0, 1.0, 3.0)
-Jacky Variable Features LSH: (1.0, 3.0, 2.0)
+Mimosa Stable Features LSH: (1.0, 5.0, 2.0, 2.0, 2.0, 3.0, 4.0, 4.0, 2.0, 4.0)
+Jacky Stable Features LSH: (7.0, 4.0, 6.0, 6.0, 5.0, 4.0, 5.0, 2.0, 5.0, 4.0)
+Mimosa Variable Features LSH: (0.0, 1.0, 3.0, 2.0, 2.0, 2.0, 4.0, 3.0, 2.0, 3.0)
+Jacky Variable Features LSH: (1.0, 3.0, 2.0, 5.0, 2.0, 4.0, 3.0, 4.0, 1.0, 2.0)
+Stable Features LSH Similarity: 0.1
+Variable Features LSH Similarity: 0.1
 
 ```
 
